@@ -46,7 +46,7 @@ animal behavior.
   - Follow recipe in [this paper](https://www.tandfonline.com/doi/full/10.1080/03078698.2019.1759908)
   - things to buy:
       - 125-kHz RFID reader CognIoT 
-      - EM4102 tags
+      - EM4102 PIT tags from Eccel Technology
 
 ## Status
 
