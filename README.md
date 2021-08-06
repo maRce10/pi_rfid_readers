@@ -43,6 +43,10 @@ animal behavior.
 ## To-do list
 
   - Figure out hardware needed to start testing
+  - Follow recipe in [this paper](https://www.tandfonline.com/doi/full/10.1080/03078698.2019.1759908)
+  - things to buy:
+      - 125-kHz RFID reader CognIoT 
+      - EM4102 tags
 
 ## Status
 
