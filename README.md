@@ -39,7 +39,7 @@ animal behavior.
   - 
 ## In progress
   - Off-screen comunication Pi-Computer
-  - Basic Pi commands for ()
+  - Basic Pi commands for multiple sensors
   - Test RFID reading components:
     - RFID reader board [125Khz RFID module RDM6300 - UART](https://www.crcibernetica.com/125khz-rfid-module-rdm6300-uart/)
     - RFID tags [EM4100 125khz RFID Key Tag](https://www.crcibernetica.com/em4100-125khz-rfid-key-tag/) 
