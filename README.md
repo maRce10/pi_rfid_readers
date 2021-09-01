@@ -40,15 +40,15 @@ animal behavior.
 ## In progress
   - Off-screen comunication Pi-Computer
   - Basic Pi commands for ()
+  - Test RFID reading components:
+    - RFID reader board [125Khz RFID module RDM6300 - UART](https://www.crcibernetica.com/125khz-rfid-module-rdm6300-uart/)
+    - [RFID tags](https://www.crcibernetica.com/em4100-125khz-rfid-key-tag/) 
 
 ## To-do list
 
   - Figure out hardware needed to start testing
-  - Follow recipe in [this paper](https://www.tandfonline.com/doi/full/10.1080/03078698.2019.1759908)
-  - things to buy:
-      - 125-kHz RFID reader CognIoT 
-      - EM4102 PIT tags from Eccel Technology
-
+  - Follow recipe in [this paper](https://www.tandfonline.com/doi/full/10.1080/03078698.2019.1759908) (however we will test other component as those in the paper are sold in Europe)
+      
 ## Status
 
 Project is: *in progress*
