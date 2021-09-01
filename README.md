@@ -38,8 +38,9 @@ animal behavior.
 
   - 
 ## In progress
+  - Off-screen comunication Pi-Computer
+  - Basic Pi commands for ()
 
-  - 
 ## To-do list
 
   - Figure out hardware needed to start testing
