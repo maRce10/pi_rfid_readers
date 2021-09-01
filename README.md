@@ -39,7 +39,7 @@ animal behavior.
   - 
 ## In progress
   - Off-screen comunication Pi-Computer 
-    - [Wi-fi] (https://letscodepare.com/blog/how-to-setup-raspberry-pi-4-in-headless-mode)
+    - [Wi-fi](https://letscodepare.com/blog/how-to-setup-raspberry-pi-4-in-headless-mode)
     - USB-USB
   - Basic Pi commands for multiple sensors
   - Test RFID reading components:
