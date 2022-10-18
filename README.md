@@ -36,6 +36,7 @@ animal behavior.
 
 ## Analysis
   - Rat behavior when food is trapped in a cage using 125KHz RFID automatic monitouring system
+  - [Cage drawings](https://github.com/maRce10/pi_rfid_readers/blob/main/Cage.pdf)
 
 ## In progress
   - Pi commands for multiple sensors and executers
