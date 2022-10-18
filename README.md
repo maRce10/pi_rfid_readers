@@ -35,20 +35,19 @@ Code and metadata to build a RFID-based wireless system for monitoring
 animal behavior.
 
 ## Analysis
+  - Rat behavior when food is trapped in a cage using 125KHz RFID automatic monitouring system
 
-  - 
 ## In progress
-  - Off-screen comunication Pi-Computer 
-    - [Wi-fi](https://letscodepare.com/blog/how-to-setup-raspberry-pi-4-in-headless-mode)
-    - USB-USB
-  - Basic Pi commands for multiple sensors
+  - Pi commands for multiple sensors and executers
   - Test RFID reading components:
     - RFID reader board [125Khz RFID module RDM6300 - UART](https://www.crcibernetica.com/125khz-rfid-module-rdm6300-uart/)
     - RFID tags [EM4100 125khz RFID Key Tag](https://www.crcibernetica.com/em4100-125khz-rfid-key-tag/) 
+    - RFID 125KHz Animal Tags
 
 ## To-do list
-
-  - Figure out hardware needed to start testing
+  - Laser cut in MDF (1.5mm) for the cage
+  - Insalling a Touchscreen for independent use of the Pi from aditional supplies
+  - Figure out hardware needed to start testing using 13.56MHz
   - Follow recipe in [this paper](https://www.tandfonline.com/doi/full/10.1080/03078698.2019.1759908) (however we will test other component as those in the paper are sold in Europe)
       
 ## Status
