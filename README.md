@@ -46,7 +46,7 @@ animal behavior.
     - RFID 125KHz Animal Tags
 
 ## To-do list
-  - Laser cut in MDF (1.5mm) for the cage
+  - Test new voltage leveler as shown [on] (https://electronics.stackexchange.com/questions/390767/how-to-correctly-test-a-4-channel-logic-level-converter)
   - Insalling a Touchscreen for independent use of the Pi from aditional supplies
   - Figure out hardware needed to start testing using 13.56MHz
   - Follow recipe in [this paper](https://www.tandfonline.com/doi/full/10.1080/03078698.2019.1759908) (however we will test other component as those in the paper are sold in Europe)
