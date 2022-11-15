@@ -50,6 +50,7 @@ animal behavior.
   - Insalling a Touchscreen for independent use of the Pi from aditional supplies
   - Figure out hardware needed to start testing using 13.56MHz
   - Follow recipe in [this paper](https://www.tandfonline.com/doi/full/10.1080/03078698.2019.1759908) (however we will test other component as those in the paper are sold in Europe)
+  - Check these tags: [https://www.sparkfun.com/products/9416](https://www.sparkfun.com/products/9416) (and readers described in there)
       
 ## Status
 
